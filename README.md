@@ -4,3 +4,4 @@ Re-entry trajectory and performance simulation for 3rd year group design project
 All code provided is using MATLAB and all functions and main code files can be found in this repo. 
 Parameters can be changed for different scenarios. 
 The simulation assumes a point mass for the re-entry dynamics. 
+The files are under the directory ./FINAL 
